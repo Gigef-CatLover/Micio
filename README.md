@@ -1,2 +1,2 @@
 # Micio
-Un Gioco su un gatto
+Un Gioco su un gatto, open source ;=)
